@@ -16,13 +16,13 @@ import {
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCr9ITPMAgzUgQBeogT0Vwd_fFx_wDX2bo",
-  authDomain: "fir-18cbc.firebaseapp.com",
-  projectId: "fir-18cbc",
-  storageBucket: "fir-18cbc.firebasestorage.app",
-  messagingSenderId: "127881877800",
-  appId: "1:127881877800:web:dbac62fb907dffc47a981d",
-  measurementId: "G-QD25XYQKTW"
+  apiKey: "AIzaSyBNb-gHqcVmYT-7GaRNYIP45kj_TTPqdZM",
+  authDomain: "negaaaaa.firebaseapp.com",
+  projectId: "negaaaaa",
+  storageBucket: "negaaaaa.firebasestorage.app",
+  messagingSenderId: "829585715887",
+  appId: "1:829585715887:web:8b9d6dfd374c5bccb69a5a",
+  measurementId: "G-KPG449MK7N"
 };
 
 // Initialize Firebase
